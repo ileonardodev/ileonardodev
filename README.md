@@ -44,9 +44,11 @@ Minha caixa de ferramentas combina o tradicional da gestão de projetos com o po
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileonardodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileonardodev&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-mu-ashen.vercel.app/api?username=ileonardodev&show_icons=true&theme=dracula&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-mu-ashen.vercel.app/api/top-langs/?username=ileonardodev&layout=compact&theme=dracula" />
 </div>
+
 
 ---
 
