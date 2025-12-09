@@ -44,7 +44,7 @@ Minha caixa de ferramentas combina o tradicional da gestão de projetos com o po
 ### 📈 Estatísticas do GitHub
 
 <!-- Stars do repositório -->
-![GitHub Repo stars](https://img.shields.io/github/stars/ileonardodev/SEU_REPO?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/ileonardodev/style=social)
 
 <!-- Seguidores -->
 ![GitHub followers](https://img.shields.io/github/followers/ileonardodev?label=Follow&style=social)
