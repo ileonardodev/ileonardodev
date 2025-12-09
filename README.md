@@ -58,4 +58,4 @@ Estou sempre aberto a trocar ideias sobre como a análise de dados pode revoluci
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ileonardo76@gmail.com)
 
 ---
-[cite_start]*“Sou movido pela paixão por inovação e pela busca de resultados.”* [cite: 28]
+
