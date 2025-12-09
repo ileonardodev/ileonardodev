@@ -43,17 +43,10 @@ Minha caixa de ferramentas combina o tradicional da gestão de projetos com o po
 
 ### 📈 Estatísticas do GitHub
 
-<!-- Stars do repositório -->
-![GitHub Repo stars](https://img.shields.io/github/stars/ileonardodev/style=social)
-
-<!-- Seguidores -->
-![GitHub followers](https://img.shields.io/github/followers/ileonardodev?label=Follow&style=social)
-
-<!-- Linguagens mais usadas (apenas como badge indicando linguagem principal do repo) -->
-![Top language](https://img.shields.io/github/languages/top/ileonardodev/SEU_REPO)
-
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileonardodev&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileonardodev&layout=compact&theme=dracula" />
+</div>
 
 ### 📫 Vamos nos conectar?
 
